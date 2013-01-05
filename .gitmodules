@@ -1,0 +1,9 @@
+[submodule "casperjs"]
+	path = casperjs
+	url = git://github.com/n1k0/casperjs.git
+[submodule "lib/casperjs"]
+	path = lib/casperjs
+	url = git://github.com/n1k0/casperjs.git
+[submodule "lib/phantomjs"]
+	path = lib/phantomjs
+	url = git://github.com/ariya/phantomjs.git
